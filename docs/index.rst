@@ -10,7 +10,8 @@ Welcome to MDMolecule's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+This is part of the hands on exercises in the Collaborative Software Engineering in Computational Physics course at LiU.
+The creation of this README is part of said exercise.
 
 Indices and tables
 ==================
